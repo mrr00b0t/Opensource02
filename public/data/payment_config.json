@@ -1,0 +1,21 @@
+{
+  "telegramContact": "@Mono_msgbot",
+  "paymentInstructionsTitle": "Payment Instructions",
+  "paymentInstructions": "Please complete your payment to one of the accounts below. After payment, click the 'I've Made Payment' button. Your order will be processed upon confirmation.",
+  "accounts": [
+    {
+      "type": "KBZPay",
+      "name": "RepliPay Services",
+      "number": "09xxxxxxxxx",
+      "details": "Account Name: U Repli Pay"
+    },
+    {
+      "type": "WaveMoney",
+      "name": "RepliPay Services",
+      "number": "09yyyyyyyyy",
+      "details": "Ensure transfer is to an Agent or P2P as instructed."
+    }
+  ],
+  "confirmationNote": "Thank you for your purchase! Your order is being processed. You should receive your product details shortly. Please save this receipt. If you have any questions or don't receive your product within 30 minutes, contact us on Telegram.",
+  "telegramLink": "https://t.me/Mono_msgbot"
+}

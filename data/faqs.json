@@ -1,0 +1,22 @@
+[
+  {
+    "id": "faq1",
+    "question": "What payment methods are accepted?",
+    "answer": "We currently accept local bank transfers and mobile payments (e.g., KBZPay, WavePay). Specific details will be shown on the payment page once you select a product."
+  },
+  {
+    "id": "faq2",
+    "question": "How quickly will I receive my product after payment?",
+    "answer": "Digital products and account details are typically delivered within 5-15 minutes of payment confirmation. You will receive details on the confirmation page and/or via a secure message if applicable."
+  },
+  {
+    "id": "faq3",
+    "question": "What is your refund policy?",
+    "answer": "Due to the nature of digital products, all sales are generally final. However, if you encounter any issues with the product not matching its description or warranty terms, please contact our support at @Mono_msgbot on Telegram for assistance."
+  },
+  {
+    "id": "faq4",
+    "question": "Is there a warranty on these products?",
+    "answer": "Most products come with a warranty as specified in their features list (e.g., 'Full Warranty ✅'). This typically covers the duration of the plan. Please check individual product details."
+  }
+]

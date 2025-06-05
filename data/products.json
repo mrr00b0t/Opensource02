@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "coursera-plus",
+    "name": "Coursera Plus",
+    "tagline": "Unlock 7,000+ courses and Specializations.",
+    "logoUrl": "/placeholder.svg?width=80&height=80&text=Coursera&bgColor=cyan&textColor=black",
+    "accentColorClass": "shadow-cyan-500/50 hover:shadow-cyan-400/70 border-cyan-500/50",
+    "plans": [
+      {
+        "id": "1-year",
+        "name": "1 Year Subscription",
+        "officialPriceUSD": 399,
+        "salePriceMMK": 150000,
+        "stock": 0,
+        "features": ["Full Warranty ✅", "Mail + Password can be changed ✅"]
+      }
+    ]
+  },
+  {
+    "slug": "zoom-pro",
+    "name": "Zoom Pro",
+    "tagline": "Enhanced video conferencing for professionals.",
+    "logoUrl": "/placeholder.svg?width=80&height=80&text=Zoom&bgColor=violet&textColor=white",
+    "accentColorClass": "shadow-violet-500/50 hover:shadow-violet-400/70 border-violet-500/50",
+    "plans": [
+      {
+        "id": "owner-14d",
+        "name": "Owner Account - 14 Days",
+        "salePriceMMK": 25000,
+        "stock": 5,
+        "features": ["Renewable", "Full Warranty ✅"]
+      },
+      {
+        "id": "owner-28d",
+        "name": "Owner Account - 28 Days",
+        "salePriceMMK": 35000,
+        "stock": 3,
+        "features": ["Renewable", "Full Warranty ✅"]
+      },
+      {
+        "id": "member-1m",
+        "name": "Member Account - 1 Month",
+        "salePriceMMK": 25000,
+        "stock": 10,
+        "features": ["Renewable", "Full Warranty ✅"]
+      }
+    ]
+  },
+  {
+    "slug": "scribd-premium",
+    "name": "Scribd Premium",
+    "tagline": "Millions of ebooks, audiobooks, and more.",
+    "logoUrl": "/placeholder.svg?width=80&height=80&text=Scribd&bgColor=cyan&textColor=black",
+    "accentColorClass": "shadow-cyan-500/50 hover:shadow-cyan-400/70 border-cyan-500/50",
+    "plans": [
+      {
+        "id": "1-month",
+        "name": "1 Month Access",
+        "salePriceMMK": 10000,
+        "stock": 8,
+        "features": ["1-device login", "No password change ❌"]
+      },
+      {
+        "id": "2-months",
+        "name": "2 Months Access",
+        "salePriceMMK": 18000,
+        "stock": 5,
+        "features": ["1-device login", "No password change ❌"]
+      }
+    ]
+  },
+  {
+    "slug": "expressvpn",
+    "name": "ExpressVPN",
+    "tagline": "Secure & private internet access worldwide.",
+    "logoUrl": "/placeholder.svg?width=80&height=80&text=ExpressVPN&bgColor=violet&textColor=white",
+    "accentColorClass": "shadow-violet-500/50 hover:shadow-violet-400/70 border-violet-500/50",
+    "plans": [
+      {
+        "id": "pc-1m",
+        "name": "PC Version - 1 Month",
+        "salePriceMMK": 6000,
+        "stock": 12,
+        "features": ["Full Warranty ✅"]
+      },
+      {
+        "id": "mobile-1m",
+        "name": "Mobile Version - 1 Month",
+        "salePriceMMK": 5500,
+        "stock": 0,
+        "features": ["Full Warranty ✅"]
+      }
+    ]
+  }
+]
